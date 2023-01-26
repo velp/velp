@@ -6,7 +6,7 @@ I actively contribute to open-source projects, especially those related to cloud
 - [Contributions to open-source projects on Github](https://github.com/pulls?page=1&q=is%3Apr+author%3Avelp+archived%3Afalse)
 - [Contributions to OpenStack (OpenStack community has its own git and code-review system)](https://review.opendev.org/q/owner:velizarx%2540gmail.com+status:merged)
 
-:microphone: Occasionally, I [speak at conferences](https://github.com/velp/talks.md).
+:microphone: Occasionally, I [speak at conferences](./talks.md).
 
 :heart: I love math, IT technologies, programming, teaching, and rational thinking. I enjoy hiking, snowboarding, weight lifting, and traveling in my spare time.
 
