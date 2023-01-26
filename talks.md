@@ -12,7 +12,7 @@
 
 
 ## OpenStack - Python Project with 12 Million Lines of code
-<p>[<img align="left" src="https://user-images.githubusercontent.com/8326634/214871590-6e923ca5-823f-4e86-a138-be15b0784e7a.png" width="500">](https://www.youtube.com/watch?v=coD5f4ALGug)
+[<img align="left" src="https://user-images.githubusercontent.com/8326634/214871590-6e923ca5-823f-4e86-a138-be15b0784e7a.png" width="500">](https://www.youtube.com/watch?v=coD5f4ALGug)
 
 **Event:** [Python Moscow Conf++](https://conf.python.ru/2019/abstracts/4607)</br>
 **Date:** 5 April 2019</br>
@@ -20,7 +20,6 @@
 **Video:** [Youtube](https://www.youtube.com/watch?v=coD5f4ALGug) <br>
 **Slides:** [Slideshare](https://www.slideshare.net/VadimPonomarev1/openstack-python-project-with-12-million-lines-of-code-rus-moscow-python-conf-2019)<br>
 **Language:** Russian
-</p>
 
 
 ## Networking technology in modern Virtual Private Clouds
