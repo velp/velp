@@ -10,4 +10,4 @@ I actively contribute to open-source projects, especially those related to cloud
 
 :heart: I love math, IT technologies, programming, teaching, and rational thinking. I enjoy hiking, snowboarding, weight lifting, and traveling in my spare time.
 
-:mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/v-pon/), [Telegram](https://t.me/velizarx), [FaceBook](https://www.facebook.com/velizarx), [Instagram](https://www.instagram.com/velizarx/), [Medium](https://medium.com/@velizarx), [Habr](https://habr.com/ru/users/velizarx/posts/).
+:mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/v-pon/).
